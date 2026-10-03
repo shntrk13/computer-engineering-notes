@@ -10,7 +10,7 @@ Bu repository, öğrenme sürecimde hazırladığım çalışmalardan oluşuyor.
 
 Bilgisayarın temel bileşenleri, CPU, ALU, Control Unit, Register, Cache, GPU, RAM, SSD, HDD, anakart ve Bus gibi konular üzerine hazırladığım çalışma.
 
-➡️ Temel Kavramlar
+➡️ [Temel Kavramlar](./temel-kavramlar.md)
 
 ⸻
 
@@ -18,7 +18,7 @@ Bilgisayarın temel bileşenleri, CPU, ALU, Control Unit, Register, Cache, GPU, 
 
 IP adresi, Port, DNS, TCP, UDP, paket yapısı ve ping, traceroute, nslookup gibi temel ağ araçları hakkında hazırladığım çalışma.
 
-➡️ Ağ Temelleri
+➡️ [Ağ Temelleri](./ağ-temelleri.md)
 
 ⸻
 
@@ -26,7 +26,7 @@ IP adresi, Port, DNS, TCP, UDP, paket yapısı ve ping, traceroute, nslookup gib
 
 Dosya sistemlerinin çalışma mantığı, NTFS, ext4, APFS, blok yapısı, HDD ve SSD gibi konular üzerine hazırladığım çalışma.
 
-➡️ Dosya Sistemleri ve Depolama Mantığı
+➡️ [Dosya Sistemleri ve Depolama Mantığı](./dosya-sistemleri.md)
 
 ⸻
 
@@ -34,5 +34,5 @@ Dosya sistemlerinin çalışma mantığı, NTFS, ext4, APFS, blok yapısı, HDD 
 
 Kernel, Process, Thread, Bellek Yönetimi, Virtual Memory ve CPU Scheduler gibi işletim sistemi konuları üzerine hazırladığım çalışma.
 
-➡️ İşletim Sistemi Temelleri
+➡️ [İşletim Sistemleri Temelleri](./işletim-sistemleri.md)
 
